@@ -1,0 +1,8 @@
+import json
+
+employee = '{"ID":"09", "name": "Nitin", "department":"Finance"}'
+employee_dict = json.loads(employee)
+
+print(employee_dict)
+
+print(employee_dict["name"])

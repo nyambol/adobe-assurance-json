@@ -1,0 +1,1921 @@
+{
+  "events": [
+    {
+      "uuid": "ffe99af7-d88e-4625-a122-76ba592c3293",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": { "stateowner": "com.adobe.module.lifecycle" },
+        "ACPExtensionEventUniqueIdentifier": "928259f6-43a4-43f7-9972-7bc0c2ee75dd",
+        "metadata": {
+          "state.data": {
+            "maxsessionlength": 604800,
+            "lifecyclecontextdata": {
+              "runmode": "Application",
+              "prevsessionlength": "11",
+              "carriername": "AT&T",
+              "locale": "en-US",
+              "resolution": "1080x2183",
+              "dayssincefirstuse": "6",
+              "appid": "Under Armour 2.22 (200000967)",
+              "dayssincelastuse": "6",
+              "dayofweek": "2",
+              "launchevent": "LaunchEvent",
+              "devicename": "SM-A716U",
+              "hourofday": "7",
+              "osversion": "Android 12",
+              "previousappid": "Under Armour 2.22 (200000967)",
+              "dailyenguserevent": "DailyEngUserEvent",
+              "launches": "2",
+              "previousosversion": "Android 12"
+            },
+            "starttimestampmillis": 1665403055
+          }
+        },
+        "ACPExtensionEventName": "STATE_CHANGE_EVENT",
+        "ACPExtensionEventSource": "com.adobe.eventsource.sharedstate",
+        "ACPExtensionEventNumber": 63,
+        "ACPExtensionEventType": "com.adobe.eventtype.hub"
+      },
+      "timestamp": 1665403061453,
+      "eventNumber": 66,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "STATE_CHANGE_EVENT",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "592226c6-08ee-46eb-9098-482c0c345768",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": { "action": "start" },
+        "ACPExtensionEventUniqueIdentifier": "ac6df9f1-c867-4c6b-baf8-2c398a9902be",
+        "ACPExtensionEventName": "LifecycleResume",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 62,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.lifecycle"
+      },
+      "timestamp": 1665403061449,
+      "eventNumber": 65,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "LifecycleResume",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "36389efe-f19f-4df4-b9de-02bdacaebba4",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": { "action": "pause" },
+        "ACPExtensionEventUniqueIdentifier": "d48c4b12-bb35-4f65-b217-e0dc913c6424",
+        "ACPExtensionEventName": "LifecyclePause",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 61,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.lifecycle"
+      },
+      "timestamp": 1665403061419,
+      "eventNumber": 64,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "LifecyclePause",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "56e8bdaa-7ddd-4125-94c5-bae9a25347e9",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425836374458368-4619835964506889786",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&CarrierName=AT%26T&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&OSVersion=Android%2012&TimeSinceLaunch=3&Resolution=1080x2183&DeviceName=SM-A716U&.a&ua.&page.&siteSection=Product%20Detail&category=product-detail&pagename=product-detail%7Cpcid1290140%7Creviews&.page&.ua&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=product-detail%7Cpcid1290140%7Creviews&aamlh=7&cp=foreground&ts=1665403058&products=%3B1290140%3B%3B%3B%3Bevar3%3D1290140-001%7Cevar36%3D4.7%7Cevar34%3D597&p.&debug=true&.p",
+          "requestEventIdentifier": "5a863304-8c1c-49e7-8304-9324c8f9f212"
+        },
+        "ACPExtensionEventUniqueIdentifier": "c64b494f-f045-4267-938d-7d071b8ba060",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 60,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665403058935,
+      "eventNumber": 63,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "d9e9fbbd-a9b0-4aa4-9776-5c5285dba090",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "state": "product-detail|pcid1290140|reviews",
+          "contextdata": {
+            "ua.page.siteSection": "Product Detail",
+            "ua.page.category": "product-detail",
+            "ua.page.pagename": "product-detail|pcid1290140|reviews",
+            "&&products": ";1290140;;;;evar3=1290140-001|evar36=4.7|evar34=597"
+          }
+        },
+        "ACPExtensionEventUniqueIdentifier": "5a863304-8c1c-49e7-8304-9324c8f9f212",
+        "ACPExtensionEventName": "Analytics Track",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 59,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.track"
+      },
+      "timestamp": 1665403058874,
+      "eventNumber": 62,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Analytics Track",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "e5cf6acd-c90b-4806-ad1b-720fa65e5d93",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425831946813440-4619866271696193506",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&CarrierName=AT%26T&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&OSVersion=Android%2012&TimeSinceLaunch=2&Resolution=1080x2183&DeviceName=SM-A716U&.a&ua.&product.&productstatus=instock&videotype=false&producttype=regular&.product&page.&versionapp=android&siteSection=Product%20Detail&childrsid=underarmourshopapp&category=product-detail&pagename=product-detail%7Cpcid1290140&.page&user.&locationStatus=location%20opted%20out&userid=a48bc61d-c38a-4c94-b4e3-ce21808e714c&.user&.ua&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=product-detail%7Cpcid1290140&aamlh=7&cp=foreground&ts=1665403057&products=%3B1290140%3B%3B%3B%3Bevar3%3D1290140-001%7Cevar71%3DPDP%3E6%3Eno%3Eop%3Eno%3Eyes%3Eno%3Eno%3Eno%3Eno%3Eno%3Eno%3Eno%3Eno%3Eno%7Cevar50%3Dmen%3Ebest%20sellers&p.&debug=true&.p",
+          "requestEventIdentifier": "f3c5b7a6-4cf0-420d-aadc-f15e5694a926"
+        },
+        "ACPExtensionEventUniqueIdentifier": "6fa3e7b2-12af-40b8-aa58-f50470395d4c",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 58,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665403057095,
+      "eventNumber": 61,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "fcd4afd7-a8d5-446d-91ef-ba64dea37fb5",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "state": "product-detail|pcid1290140",
+          "contextdata": {
+            "ua.product.producttype": "regular",
+            "ua.page.versionapp": "android",
+            "ua.page.childrsid": "underarmourshopapp",
+            "ua.page.siteSection": "Product Detail",
+            "ua.user.locationStatus": "location opted out",
+            "ua.product.videotype": "false",
+            "ua.user.userid": "a48bc61d-c38a-4c94-b4e3-ce21808e714c",
+            "ua.product.productstatus": "instock",
+            "ua.page.category": "product-detail",
+            "ua.page.pagename": "product-detail|pcid1290140",
+            "&&products": ";1290140;;;;evar3=1290140-001|evar71=PDP>6>no>op>no>yes>no>no>no>no>no>no>no>no>no|evar50=men>best sellers"
+          }
+        },
+        "ACPExtensionEventUniqueIdentifier": "f3c5b7a6-4cf0-420d-aadc-f15e5694a926",
+        "ACPExtensionEventName": "Analytics Track",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 57,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.track"
+      },
+      "timestamp": 1665403057012,
+      "eventNumber": 60,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Analytics Track",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "87129933-b15a-4fd4-9d92-71f9800ede94",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425829629198336-4619751330017874440",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&DayOfWeek=2&CarrierName=AT%26T&LaunchEvent=LaunchEvent&HourOfDay=7&TimeSinceLaunch=0&DaysSinceFirstUse=6&locale=en-US&internalaction=Lifecycle&DaysSinceLastUse=6&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&Launches=2&OSVersion=Android%2012&DailyEngUserEvent=DailyEngUserEvent&Resolution=1080x2183&PrevSessionLength=11&DeviceName=SM-A716U&.a&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&pe=lnk_o&pev2=ADBINTERNAL%3ALifecycle&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=Under%20Armour%202.22%20%28200000967%29&aamlh=7&cp=foreground&ts=1665403055&p.&debug=true&.p",
+          "requestEventIdentifier": "c82b64ed-a062-42e1-9ca2-30abbb18aa1e"
+        },
+        "ACPExtensionEventUniqueIdentifier": "e953df7c-b843-49a0-8b5c-812e5c636375",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 56,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665403056117,
+      "eventNumber": 59,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "05f39ffa-3a86-4965-9ace-13eb954ffba9",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "target.timeout": 5,
+          "target.propertyToken": "1398c948-69a1-108d-467e-51d168cb04ed",
+          "global.privacy": "optedin",
+          "analytics.launchHitDelay": 0,
+          "analytics.backdatePreviousSessionInfo": false,
+          "analytics.offlineEnabled": true,
+          "build.environment": "prod",
+          "rules.url": "https://assets.adobedtm.com/c34e23f06d04/624cff11a0d2/launch-b9458e4018aa-rules.zip",
+          "experienceCloud.org": "A9733BC75245B1A30A490D4D@AdobeOrg",
+          "target.clientCode": "underarmour",
+          "lifecycle.sessionTimeout": 300,
+          "target.environmentId": 0,
+          "analytics.server": "underarmour.sc.omtrdc.net",
+          "analytics.rsids": "underarmourshopapp,underarmour",
+          "target.server": "",
+          "analytics.batchLimit": 0,
+          "property.id": "PRd8fdbaa8bd3e489a80be087b8dad2a5f",
+          "analytics.aamForwardingEnabled": false
+        },
+        "ACPExtensionEventUniqueIdentifier": "b07dac30-cd6f-4ec8-8c27-caad7ec195f2",
+        "ACPExtensionEventName": "Configuration Response Event",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 55,
+        "ACPExtensionEventType": "com.adobe.eventtype.configuration"
+      },
+      "timestamp": 1665403055757,
+      "eventNumber": 58,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Configuration Response Event",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "43fe94a3-7f78-426b-8f2c-391354be4362",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "stateowner": "com.adobe.module.configuration"
+        },
+        "ACPExtensionEventUniqueIdentifier": "03ef3b62-9032-48a1-989d-3ebedbdf6c66",
+        "metadata": {
+          "state.data": {
+            "target.timeout": 5,
+            "target.propertyToken": "1398c948-69a1-108d-467e-51d168cb04ed",
+            "global.privacy": "optedin",
+            "analytics.launchHitDelay": 0,
+            "analytics.backdatePreviousSessionInfo": false,
+            "analytics.offlineEnabled": true,
+            "build.environment": "prod",
+            "rules.url": "https://assets.adobedtm.com/c34e23f06d04/624cff11a0d2/launch-b9458e4018aa-rules.zip",
+            "experienceCloud.org": "A9733BC75245B1A30A490D4D@AdobeOrg",
+            "target.clientCode": "underarmour",
+            "lifecycle.sessionTimeout": 300,
+            "target.environmentId": 0,
+            "analytics.server": "underarmour.sc.omtrdc.net",
+            "analytics.rsids": "underarmourshopapp,underarmour",
+            "target.server": "",
+            "analytics.batchLimit": 0,
+            "property.id": "PRd8fdbaa8bd3e489a80be087b8dad2a5f",
+            "analytics.aamForwardingEnabled": false
+          }
+        },
+        "ACPExtensionEventName": "STATE_CHANGE_EVENT",
+        "ACPExtensionEventSource": "com.adobe.eventsource.sharedstate",
+        "ACPExtensionEventNumber": 54,
+        "ACPExtensionEventType": "com.adobe.eventtype.hub"
+      },
+      "timestamp": 1665403055756,
+      "eventNumber": 57,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "STATE_CHANGE_EVENT",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "fe9bfd73-9d09-4957-bd5b-9e9be8e58e8f",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "config.appId": "c34e23f06d04/624cff11a0d2/launch-b9458e4018aa",
+          "config.isinternalevent": true
+        },
+        "ACPExtensionEventUniqueIdentifier": "100c9b02-737e-4093-b12f-9c50ebfc3910",
+        "ACPExtensionEventName": "Configure with AppID Internal",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 53,
+        "ACPExtensionEventType": "com.adobe.eventtype.configuration"
+      },
+      "timestamp": 1665403055539,
+      "eventNumber": 56,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Configure with AppID Internal",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "4d674457-eaf1-4584-87d0-41641a690883",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "previoussessionpausetimestampmillis": 1664907775,
+          "maxsessionlength": 604800,
+          "sessionevent": "start",
+          "lifecyclecontextdata": {
+            "runmode": "Application",
+            "prevsessionlength": "11",
+            "carriername": "AT&T",
+            "locale": "en-US",
+            "resolution": "1080x2183",
+            "dayssincefirstuse": "6",
+            "appid": "Under Armour 2.22 (200000967)",
+            "dayssincelastuse": "6",
+            "dayofweek": "2",
+            "launchevent": "LaunchEvent",
+            "devicename": "SM-A716U",
+            "hourofday": "7",
+            "osversion": "Android 12",
+            "previousappid": "Under Armour 2.22 (200000967)",
+            "dailyenguserevent": "DailyEngUserEvent",
+            "launches": "2",
+            "previousosversion": "Android 12"
+          },
+          "previoussessionstarttimestampmillis": 1664907764,
+          "starttimestampmillis": 1665403055
+        },
+        "ACPExtensionEventUniqueIdentifier": "c82b64ed-a062-42e1-9ca2-30abbb18aa1e",
+        "ACPExtensionEventName": "LifecycleStart",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 52,
+        "ACPExtensionEventType": "com.adobe.eventtype.lifecycle"
+      },
+      "timestamp": 1665403055539,
+      "eventNumber": 55,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "LifecycleStart",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "4d49e423-d98c-4dbb-af52-485fa3a6a7c4",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": { "stateowner": "com.adobe.module.lifecycle" },
+        "ACPExtensionEventUniqueIdentifier": "2b537683-6c1f-4f26-80fa-a1524f058815",
+        "metadata": {
+          "state.data": {
+            "maxsessionlength": 604800,
+            "lifecyclecontextdata": {
+              "runmode": "Application",
+              "prevsessionlength": "11",
+              "carriername": "AT&T",
+              "locale": "en-US",
+              "resolution": "1080x2183",
+              "dayssincefirstuse": "6",
+              "appid": "Under Armour 2.22 (200000967)",
+              "dayssincelastuse": "6",
+              "dayofweek": "2",
+              "launchevent": "LaunchEvent",
+              "devicename": "SM-A716U",
+              "hourofday": "7",
+              "osversion": "Android 12",
+              "previousappid": "Under Armour 2.22 (200000967)",
+              "dailyenguserevent": "DailyEngUserEvent",
+              "launches": "2",
+              "previousosversion": "Android 12"
+            },
+            "starttimestampmillis": 1665403055
+          }
+        },
+        "ACPExtensionEventName": "STATE_CHANGE_EVENT",
+        "ACPExtensionEventSource": "com.adobe.eventsource.sharedstate",
+        "ACPExtensionEventNumber": 51,
+        "ACPExtensionEventType": "com.adobe.eventtype.hub"
+      },
+      "timestamp": 1665403055537,
+      "eventNumber": 54,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "STATE_CHANGE_EVENT",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "21e3128f-4c28-4f60-b171-472f848c17d5",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": { "action": "start" },
+        "ACPExtensionEventUniqueIdentifier": "43ab476c-d9bf-4eee-a0b1-2fc2ed95e8d3",
+        "ACPExtensionEventName": "LifecycleResume",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 50,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.lifecycle"
+      },
+      "timestamp": 1665403055527,
+      "eventNumber": 53,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "LifecycleResume",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "db2a35e6-a7d4-4a61-92c7-4d8010183cb6",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "productId": "1290140",
+          "navigation_source": "men>best sellers",
+          "product_available_for_sale": false,
+          "ProductMaterialColorCode": "001",
+          "StoryId": "6ad21f64e2d8976b4050",
+          "clearance_product": false,
+          "imageIndex": 0
+        },
+        "ACPExtensionEventUniqueIdentifier": "98665106-653f-4774-8a5f-fce035eec9e4",
+        "ACPExtensionEventName": "CollectData",
+        "ACPExtensionEventSource": "com.adobe.eventsource.os",
+        "ACPExtensionEventNumber": 49,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.data"
+      },
+      "timestamp": 1665403055525,
+      "eventNumber": 52,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "CollectData",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "2b88a2a2-0d5f-4db0-ba83-b7e24ff95366",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425820797927424-4619718425511343665",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&CarrierName=AT%26T&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&OSVersion=Android%2012&Resolution=1080x2183&DeviceName=SM-A716U&.a&ua.&navigation=men%3Ebest%20sellers&product.&findingmethod=navigation&.product&subcategory1=best%20sellers&page.&versionapp=android&siteSection=product%20refinement&childrsid=underarmourshopapp&pagename=men%7Cbest%20sellers&.page&category=men&user.&locationStatus=location%20opted%20out&userid=a48bc61d-c38a-4c94-b4e3-ce21808e714c&.user&displaygridtype=grid%3A%3C60&.ua&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=men%7Cbest%20sellers&aamlh=7&cp=foreground&ts=1665403052&p.&debug=true&.p",
+          "requestEventIdentifier": "78e7570f-012b-41b8-8dc6-c890437d0029"
+        },
+        "ACPExtensionEventUniqueIdentifier": "ff9ee8d6-7c47-4afa-ac8f-016e96e15f61",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 48,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665403052750,
+      "eventNumber": 51,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "02733e6b-4cb8-4eba-98d3-b25c4bdf1a27",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "state": "men|best sellers",
+          "contextdata": {
+            "ua.page.versionapp": "android",
+            "ua.page.childrsid": "underarmourshopapp",
+            "ua.page.siteSection": "product refinement",
+            "ua.subcategory1": "best sellers",
+            "ua.user.locationStatus": "location opted out",
+            "ua.user.userid": "a48bc61d-c38a-4c94-b4e3-ce21808e714c",
+            "ua.category": "men",
+            "ua.navigation": "men>best sellers",
+            "ua.product.findingmethod": "navigation",
+            "ua.displaygridtype": "grid:<60",
+            "ua.page.pagename": "men|best sellers"
+          }
+        },
+        "ACPExtensionEventUniqueIdentifier": "78e7570f-012b-41b8-8dc6-c890437d0029",
+        "ACPExtensionEventName": "Analytics Track",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 47,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.track"
+      },
+      "timestamp": 1665403052685,
+      "eventNumber": 50,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Analytics Track",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "02cb6960-5a09-4781-8378-e336e3ce2ce0",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425816772935680-4619844836835587342",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&CarrierName=AT%26T&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&OSVersion=Android%2012&action=browse%20click&Resolution=1080x2183&DeviceName=SM-A716U&.a&ua.&product.&findingMethod=navigation&.product&navigation=AppNav_Browse%7CMen%7CMen%27s%20Best%20Sellers&page.&versionapp=android&pagename=men%27s%20best%20sellers&.page&user.&locationStatus=location%20opted%20out&userid=a48bc61d-c38a-4c94-b4e3-ce21808e714c&.user&.ua&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&pe=lnk_o&pev2=AMACTION%3Abrowse%20click&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=Under%20Armour%202.22%20%28200000967%29&aamlh=7&cp=foreground&ts=1665403050&p.&debug=true&.p",
+          "requestEventIdentifier": "e2d61831-436f-48c2-9a3d-0f5bf0c9c9ab"
+        },
+        "ACPExtensionEventUniqueIdentifier": "1a1a8565-8aff-4361-8c8d-76659735545d",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 46,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665403050492,
+      "eventNumber": 49,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "95b958b3-7b0a-467f-b841-6408f358e05c",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "action": "browse click",
+          "contextdata": {
+            "ua.product.findingMethod": "navigation",
+            "ua.page.versionapp": "android",
+            "ua.user.locationStatus": "location opted out",
+            "ua.user.userid": "a48bc61d-c38a-4c94-b4e3-ce21808e714c",
+            "ua.navigation": "AppNav_Browse|Men|Men's Best Sellers",
+            "ua.page.pagename": "men's best sellers"
+          }
+        },
+        "ACPExtensionEventUniqueIdentifier": "e2d61831-436f-48c2-9a3d-0f5bf0c9c9ab",
+        "ACPExtensionEventName": "Analytics Track",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 45,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.track"
+      },
+      "timestamp": 1665403050415,
+      "eventNumber": 48,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Analytics Track",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "e85f9458-7146-412d-9266-3122a44dc820",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425798931382272-4619537191569950782",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&CarrierName=AT%26T&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&OSVersion=Android%2012&Resolution=1080x2183&DeviceName=SM-A716U&.a&ua.&page.&versionapp=android&siteSection=Other&childrsid=underarmourshopapp&pagename=categories&.page&user.&locationStatus=location%20opted%20out&userid=a48bc61d-c38a-4c94-b4e3-ce21808e714c&.user&.ua&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=categories&aamlh=7&cp=foreground&ts=1665403042&p.&debug=true&.p",
+          "requestEventIdentifier": "f2277a63-3c75-47e5-9388-7bb265b64d09"
+        },
+        "ACPExtensionEventUniqueIdentifier": "64087a59-6b22-4760-9b7a-ce57ad72d89c",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 44,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665403042568,
+      "eventNumber": 47,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "13ec2679-4616-4016-a3e1-84564b3549a5",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "state": "categories",
+          "contextdata": {
+            "ua.page.versionapp": "android",
+            "ua.page.childrsid": "underarmourshopapp",
+            "ua.page.siteSection": "Other",
+            "ua.user.locationStatus": "location opted out",
+            "ua.user.userid": "a48bc61d-c38a-4c94-b4e3-ce21808e714c",
+            "ua.page.pagename": "categories"
+          }
+        },
+        "ACPExtensionEventUniqueIdentifier": "f2277a63-3c75-47e5-9388-7bb265b64d09",
+        "ACPExtensionEventName": "Analytics Track",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 43,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.track"
+      },
+      "timestamp": 1665403042308,
+      "eventNumber": 46,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Analytics Track",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "4a444df0-72b7-4c06-8756-627497e5dd56",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425564444524544-4619321095627841544",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&CarrierName=AT%26T&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&OSVersion=Android%2012&Resolution=1080x2183&DeviceName=SM-A716U&.a&ua.&navigation=women%3Eproject%20rock&product.&findingmethod=navigation&.product&subcategory1=project%20rock&page.&versionapp=android&siteSection=product%20refinement&childrsid=underarmourshopapp&pagename=women%7Cproject%20rock&.page&category=women&user.&locationStatus=location%20opted%20out&userid=a48bc61d-c38a-4c94-b4e3-ce21808e714c&.user&displaygridtype=grid%3A%3C60&.ua&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=women%7Cproject%20rock&aamlh=7&cp=foreground&ts=1665402933&p.&debug=true&.p",
+          "requestEventIdentifier": "1a28e596-56f5-42f9-b558-8d4b47196fda"
+        },
+        "ACPExtensionEventUniqueIdentifier": "2a35c2b7-27dd-44d3-886c-6aa5dfa66905",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 42,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665402933572,
+      "eventNumber": 45,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "annotations": [
+        {
+          "uuid": "78d97d09-b8b0-451d-b273-05c3df159437",
+          "eventUuid": "4a444df0-72b7-4c06-8756-627497e5dd56",
+          "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+          "type": "visibility",
+          "payload": { "important": true }
+        }
+      ],
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": true
+    },
+    {
+      "uuid": "f7444d17-7f17-4372-88f0-bef1cb34138d",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "state": "women|project rock",
+          "contextdata": {
+            "ua.page.versionapp": "android",
+            "ua.page.childrsid": "underarmourshopapp",
+            "ua.page.siteSection": "product refinement",
+            "ua.subcategory1": "project rock",
+            "ua.user.locationStatus": "location opted out",
+            "ua.user.userid": "a48bc61d-c38a-4c94-b4e3-ce21808e714c",
+            "ua.category": "women",
+            "ua.navigation": "women>project rock",
+            "ua.product.findingmethod": "navigation",
+            "ua.displaygridtype": "grid:<60",
+            "ua.page.pagename": "women|project rock"
+          }
+        },
+        "ACPExtensionEventUniqueIdentifier": "1a28e596-56f5-42f9-b558-8d4b47196fda",
+        "ACPExtensionEventName": "Analytics Track",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 41,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.track"
+      },
+      "timestamp": 1665402933288,
+      "eventNumber": 44,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Analytics Track",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "a54ce6f0-2824-43f0-90bb-bc52d57f9c96",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425559933059072-4619888836170692788",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&CarrierName=AT%26T&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&OSVersion=Android%2012&action=browse%20click&Resolution=1080x2183&DeviceName=SM-A716U&.a&ua.&product.&findingMethod=navigation&.product&navigation=AppNav_Browse%7CWomen%7CProject%20Rock%20Collection&page.&versionapp=android&pagename=project%20rock%20collection&.page&user.&locationStatus=location%20opted%20out&userid=a48bc61d-c38a-4c94-b4e3-ce21808e714c&.user&.ua&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&pe=lnk_o&pev2=AMACTION%3Abrowse%20click&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=Under%20Armour%202.22%20%28200000967%29&aamlh=7&cp=foreground&ts=1665402931&p.&debug=true&.p",
+          "requestEventIdentifier": "c12a0d5c-f580-45f7-876d-2236818294d8"
+        },
+        "ACPExtensionEventUniqueIdentifier": "3c3f751f-7a8d-42af-af02-8ebcd5c5fb1f",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 40,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665402931480,
+      "eventNumber": 43,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "6516ed2b-906f-4c28-aaee-4f09004be366",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "action": "browse click",
+          "contextdata": {
+            "ua.product.findingMethod": "navigation",
+            "ua.page.versionapp": "android",
+            "ua.user.locationStatus": "location opted out",
+            "ua.user.userid": "a48bc61d-c38a-4c94-b4e3-ce21808e714c",
+            "ua.navigation": "AppNav_Browse|Women|Project Rock Collection",
+            "ua.page.pagename": "project rock collection"
+          }
+        },
+        "ACPExtensionEventUniqueIdentifier": "c12a0d5c-f580-45f7-876d-2236818294d8",
+        "ACPExtensionEventName": "Analytics Track",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 39,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.track"
+      },
+      "timestamp": 1665402931366,
+      "eventNumber": 42,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Analytics Track",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "75703243-08c0-40e8-b3f7-f6c4f5f14765",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425491421888512-4619328637064231546",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&CarrierName=AT%26T&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&OSVersion=Android%2012&Resolution=1080x2183&DeviceName=SM-A716U&.a&ua.&page.&versionapp=android&siteSection=Other&childrsid=underarmourshopapp&pagename=categories&.page&user.&locationStatus=location%20opted%20out&userid=a48bc61d-c38a-4c94-b4e3-ce21808e714c&.user&.ua&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=categories&aamlh=7&cp=foreground&ts=1665402899&p.&debug=true&.p",
+          "requestEventIdentifier": "64af97f8-bf33-4ed1-87aa-97b382ff24aa"
+        },
+        "ACPExtensionEventUniqueIdentifier": "2ece5fde-6b8e-4d95-bba8-e90d885dff3d",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 38,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665402899301,
+      "eventNumber": 41,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "annotations": [
+        {
+          "uuid": "705eb392-fef9-4818-9c73-fa04b683bd69",
+          "eventUuid": "75703243-08c0-40e8-b3f7-f6c4f5f14765",
+          "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+          "type": "visibility",
+          "payload": { "important": true }
+        }
+      ],
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": true
+    },
+    {
+      "uuid": "76edec2a-b2b3-488a-8f78-252753f42f5a",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "state": "categories",
+          "contextdata": {
+            "ua.page.versionapp": "android",
+            "ua.page.childrsid": "underarmourshopapp",
+            "ua.page.siteSection": "Other",
+            "ua.user.locationStatus": "location opted out",
+            "ua.user.userid": "a48bc61d-c38a-4c94-b4e3-ce21808e714c",
+            "ua.page.pagename": "categories"
+          }
+        },
+        "ACPExtensionEventUniqueIdentifier": "64af97f8-bf33-4ed1-87aa-97b382ff24aa",
+        "ACPExtensionEventName": "Analytics Track",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 37,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.track"
+      },
+      "timestamp": 1665402899200,
+      "eventNumber": 40,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Analytics Track",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "3438497f-5c10-4ce2-98d1-0718286d0841",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425430976364544-4619886940727097223",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&CarrierName=AT%26T&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&OSVersion=Android%2012&Resolution=1080x2183&DeviceName=SM-A716U&.a&ua.&page.&versionapp=android&siteSection=onboarding&childrsid=underarmourshopapp&pagename=personalizing&.page&user.&locationStatus=location%20opted%20out&userid=a48bc61d-c38a-4c94-b4e3-ce21808e714c&.user&.ua&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=personalizing&aamlh=7&cp=foreground&ts=1665402871&p.&debug=true&.p",
+          "requestEventIdentifier": "1d0cca01-4469-40aa-97a3-a15c20d7fd3a"
+        },
+        "ACPExtensionEventUniqueIdentifier": "15796625-1abf-47e7-8600-7024ad7b2652",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 36,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665402871561,
+      "eventNumber": 39,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "94eed1ba-7795-4a13-aaab-f51b0c155039",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "state": "personalizing",
+          "contextdata": {
+            "ua.page.versionapp": "android",
+            "ua.page.childrsid": "underarmourshopapp",
+            "ua.page.siteSection": "onboarding",
+            "ua.user.locationStatus": "location opted out",
+            "ua.user.userid": "a48bc61d-c38a-4c94-b4e3-ce21808e714c",
+            "ua.page.pagename": "personalizing"
+          }
+        },
+        "ACPExtensionEventUniqueIdentifier": "1d0cca01-4469-40aa-97a3-a15c20d7fd3a",
+        "ACPExtensionEventName": "Analytics Track",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 35,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.track"
+      },
+      "timestamp": 1665402871493,
+      "eventNumber": 38,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Analytics Track",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "b063fcc5-8c71-470d-8720-a941980ceb2f",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "deeplink": "uashop://?adb_validation_sessionid=b9927c6f-f820-4f75-8754-770dfd31b4ce"
+        },
+        "ACPExtensionEventUniqueIdentifier": "315d3047-6ff8-4816-a1b2-56df6e0ad4f7",
+        "ACPExtensionEventName": "CollectData",
+        "ACPExtensionEventSource": "com.adobe.eventsource.os",
+        "ACPExtensionEventNumber": 34,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.data"
+      },
+      "timestamp": 1665402871491,
+      "eventNumber": 37,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "CollectData",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "0fbbdbd0-b85d-4d5d-bf8f-e2e77f42b4c0",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425431622778880-4619830344540466057",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&CarrierName=AT%26T&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&OSVersion=Android%2012&Resolution=1080x2183&DeviceName=SM-A716U&.a&ua.&page.&versionapp=android&siteSection=onboarding&childrsid=underarmourshopapp&pagename=personalizing&.page&user.&locationStatus=location%20opted%20out&userid=a48bc61d-c38a-4c94-b4e3-ce21808e714c&.user&.ua&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=personalizing&aamlh=7&cp=foreground&ts=1665402871&p.&debug=true&.p",
+          "requestEventIdentifier": "d4eee282-6469-4adb-be88-bbd9d30cbcd6"
+        },
+        "ACPExtensionEventUniqueIdentifier": "52f10ab6-3a4f-4a2c-a62c-15458db5a9d9",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 33,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665402871454,
+      "eventNumber": 36,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "79843274-2c5b-4fbf-acd6-651cfd4dd235",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425432370970624-4619842352186234788",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&CarrierName=AT%26T&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&OSVersion=Android%2012&Resolution=1080x2183&DeviceName=SM-A716U&.a&ua.&product.&findingMethod=explore&.product&page.&versionapp=android&siteSection=explore&childrsid=underarmourshopapp&pagename=explore%7CShop%20Our%20Instagram%7C1&.page&user.&locationStatus=location%20opted%20out&userid=a48bc61d-c38a-4c94-b4e3-ce21808e714c&.user&.ua&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=explore%7CShop%20Our%20Instagram%7C1&aamlh=7&cp=foreground&ts=1665402871&p.&debug=true&.p",
+          "requestEventIdentifier": "46b9102a-fc0f-4c56-bffd-c65f0bde06cc"
+        },
+        "ACPExtensionEventUniqueIdentifier": "e10e4bcd-6587-4aab-84f8-5301c0e0b777",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 32,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665402871408,
+      "eventNumber": 35,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "a09eb96e-0b86-42d4-ba32-4e16e22b9c49",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "state": "personalizing",
+          "contextdata": {
+            "ua.page.versionapp": "android",
+            "ua.page.childrsid": "underarmourshopapp",
+            "ua.page.siteSection": "onboarding",
+            "ua.user.locationStatus": "location opted out",
+            "ua.user.userid": "a48bc61d-c38a-4c94-b4e3-ce21808e714c",
+            "ua.page.pagename": "personalizing"
+          }
+        },
+        "ACPExtensionEventUniqueIdentifier": "d4eee282-6469-4adb-be88-bbd9d30cbcd6",
+        "ACPExtensionEventName": "Analytics Track",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 31,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.track"
+      },
+      "timestamp": 1665402871405,
+      "eventNumber": 34,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Analytics Track",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "a6374586-aaa6-4361-9d08-03119e9c86f8",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "deeplink": "uashop://?adb_validation_sessionid=b9927c6f-f820-4f75-8754-770dfd31b4ce"
+        },
+        "ACPExtensionEventUniqueIdentifier": "8c622a85-89ce-4da6-b325-c16a76688ff6",
+        "ACPExtensionEventName": "CollectData",
+        "ACPExtensionEventSource": "com.adobe.eventsource.os",
+        "ACPExtensionEventNumber": 30,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.data"
+      },
+      "timestamp": 1665402871404,
+      "eventNumber": 33,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "CollectData",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "963260d9-4ac9-498f-b950-6be02f2a41ce",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425431984570368-4619663214362095076",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&CarrierName=AT%26T&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&OSVersion=Android%2012&Resolution=1080x2183&DeviceName=SM-A716U&.a&ua.&page.&versionapp=android&siteSection=onboarding&childrsid=underarmourshopapp&pagename=personalizing&.page&user.&locationStatus=location%20opted%20out&userid=a48bc61d-c38a-4c94-b4e3-ce21808e714c&.user&.ua&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=personalizing&aamlh=7&cp=foreground&ts=1665402871&p.&debug=true&.p",
+          "requestEventIdentifier": "5bb0d8aa-eace-4fb2-9209-856c14700748"
+        },
+        "ACPExtensionEventUniqueIdentifier": "90b7b7e0-d98f-47fe-a996-11b755825bc0",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 29,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665402871336,
+      "eventNumber": 32,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "a4d9c8d1-4262-4b12-a1fa-c5e4391042b8",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "state": "explore|Shop Our Instagram|1",
+          "contextdata": {
+            "ua.product.findingMethod": "explore",
+            "ua.page.versionapp": "android",
+            "ua.page.childrsid": "underarmourshopapp",
+            "ua.page.siteSection": "explore",
+            "ua.user.locationStatus": "location opted out",
+            "ua.user.userid": "a48bc61d-c38a-4c94-b4e3-ce21808e714c",
+            "ua.page.pagename": "explore|Shop Our Instagram|1"
+          }
+        },
+        "ACPExtensionEventUniqueIdentifier": "46b9102a-fc0f-4c56-bffd-c65f0bde06cc",
+        "ACPExtensionEventName": "Analytics Track",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 28,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.track"
+      },
+      "timestamp": 1665402871294,
+      "eventNumber": 31,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Analytics Track",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "9b34051e-9bf3-4958-ac95-09f232fad754",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "state": "personalizing",
+          "contextdata": {
+            "ua.page.versionapp": "android",
+            "ua.page.childrsid": "underarmourshopapp",
+            "ua.page.siteSection": "onboarding",
+            "ua.user.locationStatus": "location opted out",
+            "ua.user.userid": "a48bc61d-c38a-4c94-b4e3-ce21808e714c",
+            "ua.page.pagename": "personalizing"
+          }
+        },
+        "ACPExtensionEventUniqueIdentifier": "5bb0d8aa-eace-4fb2-9209-856c14700748",
+        "ACPExtensionEventName": "Analytics Track",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 27,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.track"
+      },
+      "timestamp": 1665402871265,
+      "eventNumber": 30,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Analytics Track",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "eb5c50b4-65a8-4836-a580-eb36816d2b3f",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "deeplink": "uashop://?adb_validation_sessionid=b9927c6f-f820-4f75-8754-770dfd31b4ce"
+        },
+        "ACPExtensionEventUniqueIdentifier": "817fb44a-0624-4f7e-8a8f-d73251f91d60",
+        "ACPExtensionEventName": "CollectData",
+        "ACPExtensionEventSource": "com.adobe.eventsource.os",
+        "ACPExtensionEventNumber": 26,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.data"
+      },
+      "timestamp": 1665402871261,
+      "eventNumber": 29,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "CollectData",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "9812b825-5ece-44e0-ba07-ab26f11df955",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": { "stateowner": "com.adobe.assurance" },
+        "ACPExtensionEventUniqueIdentifier": "3842e532-c0ce-420c-bbf1-cc534c7e5ff7",
+        "metadata": {
+          "state.data": {
+            "clientid": "f0650468-3653-42b6-bcbf-a059749733ef",
+            "integrationid": "b9927c6f-f820-4f75-8754-770dfd31b4ce|f0650468-3653-42b6-bcbf-a059749733ef",
+            "sessionid": "b9927c6f-f820-4f75-8754-770dfd31b4ce"
+          }
+        },
+        "ACPExtensionEventName": "STATE_CHANGE_EVENT",
+        "ACPExtensionEventSource": "com.adobe.eventsource.sharedstate",
+        "ACPExtensionEventNumber": 25,
+        "ACPExtensionEventType": "com.adobe.eventtype.hub"
+      },
+      "timestamp": 1665402871201,
+      "eventNumber": 28,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "STATE_CHANGE_EVENT",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "ed18c476-b563-4d01-b016-cc32a201c32e",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "client",
+      "payload": {
+        "type": "connect",
+        "version": "1.0.1",
+        "deviceInfo": {
+          "Carrier name": "AT&T",
+          "Device manufacturer": "samsung",
+          "Location service enabled": true,
+          "Battery level ": 96,
+          "Location authorization status": "Denied",
+          "Canonical platform name": "Android",
+          "Low power mode enabled": false,
+          "Screen size ": "1080x2183",
+          "Device name": "SM-A716U",
+          "Operating system": "Android 12"
+        }
+      },
+      "timestamp": 1665402870199,
+      "eventNumber": 26,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "client",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "c195bac6-44f2-4398-8321-72ede245fd24",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "headers": {
+            "Server": "jag",
+            "ETag": "3576425409558642688-4619984597195577786",
+            "Content-Type": "text/html;charset=utf-8"
+          },
+          "analyticsserverresponse": " ",
+          "hitHost": "https://underarmour.sc.omtrdc.net/b/ss/underarmourshopapp%2Cunderarmour/0/ANDN010206010507/s",
+          "hitUrl": "ndh=1&ce=UTF-8&c.&a.&CarrierName=AT%26T&AppID=Under%20Armour%202.22%20%28200000967%29&RunMode=Application&OSVersion=Android%2012&Resolution=1080x2183&DeviceName=SM-A716U&.a&ua.&page.&versionapp=android&siteSection=onboarding&childrsid=underarmourshopapp&pagename=personalizing&.page&user.&locationStatus=location%20opted%20out&userid=a48bc61d-c38a-4c94-b4e3-ce21808e714c&.user&.ua&.c&t=00%2F00%2F0000%2000%3A00%3A00%200%20240&aamb=j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI&mid=83829690038649297836005851755099101374&pageName=personalizing&aamlh=7&cp=foreground&ts=1665402859",
+          "requestEventIdentifier": "080d0015-b710-4df0-8bd5-f75a62eda3d9"
+        },
+        "ACPExtensionEventUniqueIdentifier": "4f37c2c8-7270-4e0a-8ad7-9823decb1719",
+        "ACPExtensionEventName": "AnalyticsResponse",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 24,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665402861363,
+      "eventNumber": 25,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "AnalyticsResponse",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "52706d1f-bef2-4ac2-85e6-575c858dd4ca",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "state": "personalizing",
+          "contextdata": {
+            "ua.page.versionapp": "android",
+            "ua.page.childrsid": "underarmourshopapp",
+            "ua.page.siteSection": "onboarding",
+            "ua.user.locationStatus": "location opted out",
+            "ua.user.userid": "a48bc61d-c38a-4c94-b4e3-ce21808e714c",
+            "ua.page.pagename": "personalizing"
+          }
+        },
+        "ACPExtensionEventUniqueIdentifier": "080d0015-b710-4df0-8bd5-f75a62eda3d9",
+        "ACPExtensionEventName": "Analytics Track",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 23,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.track"
+      },
+      "timestamp": 1665402859184,
+      "eventNumber": 24,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Analytics Track",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "f72378c8-10c1-4b2e-9952-6744c0e7405b",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "deeplink": "uashop://?adb_validation_sessionid=b9927c6f-f820-4f75-8754-770dfd31b4ce"
+        },
+        "ACPExtensionEventUniqueIdentifier": "4f0bd834-225c-4b0b-97c9-2aedd49527fe",
+        "ACPExtensionEventName": "CollectData",
+        "ACPExtensionEventSource": "com.adobe.eventsource.os",
+        "ACPExtensionEventNumber": 22,
+        "ACPExtensionEventType": "com.adobe.eventtype.generic.data"
+      },
+      "timestamp": 1665402858765,
+      "eventNumber": 23,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "CollectData",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "034fac38-ae21-48ea-8d06-8e2898073606",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "lastsync": 1665402858,
+          "blob": "j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI",
+          "locationhint": "7",
+          "mid": "83829690038649297836005851755099101374"
+        },
+        "ACPExtensionEventUniqueIdentifier": "da9d5149-c3f1-4e1f-b20b-ff45e6ab3b71",
+        "ACPExtensionEventName": "IDENTITY_RESPONSE_CONTENT_ONE_TIME",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responseidentity",
+        "ACPExtensionEventNumber": 21,
+        "ACPExtensionEventType": "com.adobe.eventtype.identity"
+      },
+      "timestamp": 1665402858715,
+      "eventNumber": 22,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "IDENTITY_RESPONSE_CONTENT_ONE_TIME",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "9c4260ad-bd53-468d-8e81-448dd4b29ebe",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {},
+        "ACPExtensionEventUniqueIdentifier": "51dc6914-be9d-406c-9cf1-fdd7865932d4",
+        "ACPExtensionEventName": "IdentityRequestIdentity",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestidentity",
+        "ACPExtensionEventNumber": 20,
+        "ACPExtensionEventType": "com.adobe.eventtype.identity"
+      },
+      "timestamp": 1665402858715,
+      "eventNumber": 21,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "IdentityRequestIdentity",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "54cdb018-863f-4031-954a-07e826b39cf0",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "startSessionURL": "uashop://?adb_validation_sessionid=b9927c6f-f820-4f75-8754-770dfd31b4ce"
+        },
+        "ACPExtensionEventUniqueIdentifier": "088ef08f-2c90-4460-aacb-238cc7250a9d",
+        "ACPExtensionEventName": "Assurance Start Session",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 19,
+        "ACPExtensionEventType": "com.adobe.eventtype.assurance"
+      },
+      "timestamp": 1665402858680,
+      "eventNumber": 20,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Assurance Start Session",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "663e3501-4239-4598-b93d-46c46daf7c80",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "lastsync": 1665402858,
+          "blob": "j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI",
+          "locationhint": "7",
+          "mid": "83829690038649297836005851755099101374"
+        },
+        "ACPExtensionEventUniqueIdentifier": "a20eea63-7791-4d0c-810c-8b251c57a422",
+        "ACPExtensionEventName": "UPDATED_IDENTITY_RESPONSE",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responseidentity",
+        "ACPExtensionEventNumber": 18,
+        "ACPExtensionEventType": "com.adobe.eventtype.identity"
+      },
+      "timestamp": 1665402858476,
+      "eventNumber": 19,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "UPDATED_IDENTITY_RESPONSE",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "7703d2f8-36da-437f-bcba-368c28edd310",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "lastsync": 1665402858,
+          "blob": "j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI",
+          "locationhint": "7",
+          "mid": "83829690038649297836005851755099101374"
+        },
+        "ACPExtensionEventUniqueIdentifier": "7f056e76-2f58-497a-bffc-7057e88248db",
+        "ACPExtensionEventName": "UPDATED_IDENTITY_RESPONSE",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responseidentity",
+        "ACPExtensionEventNumber": 17,
+        "ACPExtensionEventType": "com.adobe.eventtype.identity"
+      },
+      "timestamp": 1665402858475,
+      "eventNumber": 18,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "UPDATED_IDENTITY_RESPONSE",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "db167f8e-47c4-484f-b562-5d081ebb272c",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "target.timeout": 5,
+          "target.propertyToken": "1398c948-69a1-108d-467e-51d168cb04ed",
+          "global.privacy": "optedin",
+          "analytics.launchHitDelay": 0,
+          "analytics.backdatePreviousSessionInfo": false,
+          "analytics.offlineEnabled": true,
+          "build.environment": "prod",
+          "rules.url": "https://assets.adobedtm.com/c34e23f06d04/624cff11a0d2/launch-b9458e4018aa-rules.zip",
+          "experienceCloud.org": "A9733BC75245B1A30A490D4D@AdobeOrg",
+          "target.clientCode": "underarmour",
+          "lifecycle.sessionTimeout": 300,
+          "target.environmentId": 0,
+          "analytics.server": "underarmour.sc.omtrdc.net",
+          "analytics.rsids": "underarmourshopapp,underarmour",
+          "target.server": "",
+          "analytics.batchLimit": 0,
+          "property.id": "PRd8fdbaa8bd3e489a80be087b8dad2a5f",
+          "analytics.aamForwardingEnabled": false
+        },
+        "ACPExtensionEventUniqueIdentifier": "e8059a0b-a9fa-476f-900b-9ad2750113cb",
+        "ACPExtensionEventName": "Configuration Response Event",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 16,
+        "ACPExtensionEventType": "com.adobe.eventtype.configuration"
+      },
+      "timestamp": 1665402858256,
+      "eventNumber": 17,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Configuration Response Event",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "47eab6fa-3a90-413a-a132-21da5c6b9edc",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "stateowner": "com.adobe.module.configuration"
+        },
+        "ACPExtensionEventUniqueIdentifier": "465c418f-3c26-4c8d-8ee7-ce2280cb9a9e",
+        "metadata": {
+          "state.data": {
+            "target.timeout": 5,
+            "target.propertyToken": "1398c948-69a1-108d-467e-51d168cb04ed",
+            "global.privacy": "optedin",
+            "analytics.launchHitDelay": 0,
+            "analytics.backdatePreviousSessionInfo": false,
+            "analytics.offlineEnabled": true,
+            "build.environment": "prod",
+            "rules.url": "https://assets.adobedtm.com/c34e23f06d04/624cff11a0d2/launch-b9458e4018aa-rules.zip",
+            "experienceCloud.org": "A9733BC75245B1A30A490D4D@AdobeOrg",
+            "target.clientCode": "underarmour",
+            "lifecycle.sessionTimeout": 300,
+            "target.environmentId": 0,
+            "analytics.server": "underarmour.sc.omtrdc.net",
+            "analytics.rsids": "underarmourshopapp,underarmour",
+            "target.server": "",
+            "analytics.batchLimit": 0,
+            "property.id": "PRd8fdbaa8bd3e489a80be087b8dad2a5f",
+            "analytics.aamForwardingEnabled": false
+          }
+        },
+        "ACPExtensionEventName": "STATE_CHANGE_EVENT",
+        "ACPExtensionEventSource": "com.adobe.eventsource.sharedstate",
+        "ACPExtensionEventNumber": 15,
+        "ACPExtensionEventType": "com.adobe.eventtype.hub"
+      },
+      "timestamp": 1665402858256,
+      "eventNumber": 16,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "STATE_CHANGE_EVENT",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "11d85871-1f90-41c3-bcc2-df4b7e795738",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {},
+        "ACPExtensionEventUniqueIdentifier": "cd12cd82-40ea-418e-9aab-7ba5be805818",
+        "ACPExtensionEventName": "TrackingIdentifierValue",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responseidentity",
+        "ACPExtensionEventNumber": 14,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665402858229,
+      "eventNumber": 15,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "TrackingIdentifierValue",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "5e218e42-839f-4e41-b9ea-200dbf70702b",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {},
+        "ACPExtensionEventUniqueIdentifier": "b68cb1dc-d896-40fb-a1c4-9eb818548e78",
+        "ACPExtensionEventName": "TrackingIdentifierValue",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responseidentity",
+        "ACPExtensionEventNumber": 13,
+        "ACPExtensionEventType": "com.adobe.eventtype.analytics"
+      },
+      "timestamp": 1665402858229,
+      "eventNumber": 14,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "TrackingIdentifierValue",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "3867e2ce-5152-45be-85fd-edbe813c210d",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": { "stateowner": "com.adobe.module.analytics" },
+        "ACPExtensionEventUniqueIdentifier": "99930a53-c68f-4856-bd5d-247f3c752e67",
+        "metadata": { "state.data": {} },
+        "ACPExtensionEventName": "STATE_CHANGE_EVENT",
+        "ACPExtensionEventSource": "com.adobe.eventsource.sharedstate",
+        "ACPExtensionEventNumber": 12,
+        "ACPExtensionEventType": "com.adobe.eventtype.hub"
+      },
+      "timestamp": 1665402858228,
+      "eventNumber": 13,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "STATE_CHANGE_EVENT",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "bfe4cb73-9d38-4bb3-82e7-bae98f5d71ca",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "lastsync": 1664907764,
+          "blob": "j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI",
+          "locationhint": "7",
+          "mid": "83829690038649297836005851755099101374"
+        },
+        "ACPExtensionEventUniqueIdentifier": "fbffa461-6fe6-4025-b85e-9d49d753a35c",
+        "ACPExtensionEventName": "IDENTITY_RESPONSE_CONTENT_ONE_TIME",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responseidentity",
+        "ACPExtensionEventNumber": 11,
+        "ACPExtensionEventType": "com.adobe.eventtype.identity"
+      },
+      "timestamp": 1665402858225,
+      "eventNumber": 12,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "IDENTITY_RESPONSE_CONTENT_ONE_TIME",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "1365e78f-50af-419b-bc27-153a4ff843fc",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": { "stateowner": "com.adobe.module.identity" },
+        "ACPExtensionEventUniqueIdentifier": "e9e827a7-a19f-4946-9ec3-6772712c40b0",
+        "metadata": {
+          "state.data": {
+            "lastsync": 1664907764,
+            "blob": "j8Odv6LonN4r3an7LhD3WZrU1bUpAkFkkiY1ncBR96t2PTI",
+            "locationhint": "7",
+            "mid": "83829690038649297836005851755099101374"
+          }
+        },
+        "ACPExtensionEventName": "STATE_CHANGE_EVENT",
+        "ACPExtensionEventSource": "com.adobe.eventsource.sharedstate",
+        "ACPExtensionEventNumber": 10,
+        "ACPExtensionEventType": "com.adobe.eventtype.hub"
+      },
+      "timestamp": 1665402858225,
+      "eventNumber": 11,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "STATE_CHANGE_EVENT",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "28e066e7-a44c-42c1-85ab-e9ff167aacfe",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "target.timeout": 5,
+          "target.propertyToken": "1398c948-69a1-108d-467e-51d168cb04ed",
+          "global.privacy": "optedin",
+          "analytics.launchHitDelay": 0,
+          "analytics.backdatePreviousSessionInfo": false,
+          "analytics.offlineEnabled": true,
+          "build.environment": "prod",
+          "rules.url": "https://assets.adobedtm.com/c34e23f06d04/624cff11a0d2/launch-b9458e4018aa-rules.zip",
+          "experienceCloud.org": "A9733BC75245B1A30A490D4D@AdobeOrg",
+          "target.clientCode": "underarmour",
+          "lifecycle.sessionTimeout": 300,
+          "target.environmentId": 0,
+          "analytics.server": "underarmour.sc.omtrdc.net",
+          "analytics.rsids": "underarmourshopapp,underarmour",
+          "target.server": "",
+          "analytics.batchLimit": 0,
+          "property.id": "PRd8fdbaa8bd3e489a80be087b8dad2a5f",
+          "analytics.aamForwardingEnabled": false
+        },
+        "ACPExtensionEventUniqueIdentifier": "f2c07a4a-8ca9-4fa5-8484-4830ca282e19",
+        "ACPExtensionEventName": "Configuration Response Event",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responsecontent",
+        "ACPExtensionEventNumber": 9,
+        "ACPExtensionEventType": "com.adobe.eventtype.configuration"
+      },
+      "timestamp": 1665402858220,
+      "eventNumber": 10,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Configuration Response Event",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "73c21a2d-30ca-452e-a065-574908e26d27",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "stateowner": "com.adobe.module.configuration"
+        },
+        "ACPExtensionEventUniqueIdentifier": "a90ab5f1-4e93-4f06-bfe2-a333de87bc15",
+        "metadata": {
+          "state.data": {
+            "target.timeout": 5,
+            "target.propertyToken": "1398c948-69a1-108d-467e-51d168cb04ed",
+            "global.privacy": "optedin",
+            "analytics.launchHitDelay": 0,
+            "analytics.backdatePreviousSessionInfo": false,
+            "analytics.offlineEnabled": true,
+            "build.environment": "prod",
+            "rules.url": "https://assets.adobedtm.com/c34e23f06d04/624cff11a0d2/launch-b9458e4018aa-rules.zip",
+            "experienceCloud.org": "A9733BC75245B1A30A490D4D@AdobeOrg",
+            "target.clientCode": "underarmour",
+            "lifecycle.sessionTimeout": 300,
+            "target.environmentId": 0,
+            "analytics.server": "underarmour.sc.omtrdc.net",
+            "analytics.rsids": "underarmourshopapp,underarmour",
+            "target.server": "",
+            "analytics.batchLimit": 0,
+            "property.id": "PRd8fdbaa8bd3e489a80be087b8dad2a5f",
+            "analytics.aamForwardingEnabled": false
+          }
+        },
+        "ACPExtensionEventName": "STATE_CHANGE_EVENT",
+        "ACPExtensionEventSource": "com.adobe.eventsource.sharedstate",
+        "ACPExtensionEventNumber": 8,
+        "ACPExtensionEventType": "com.adobe.eventtype.hub"
+      },
+      "timestamp": 1665402858219,
+      "eventNumber": 9,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "STATE_CHANGE_EVENT",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "6f485f65-4f51-44eb-a362-95e614600c01",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "config.appId": "c34e23f06d04/624cff11a0d2/launch-b9458e4018aa"
+        },
+        "ACPExtensionEventUniqueIdentifier": "b6d7c043-258e-48f3-af90-63fa911e989b",
+        "ACPExtensionEventName": "Configure with AppID",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 7,
+        "ACPExtensionEventType": "com.adobe.eventtype.configuration"
+      },
+      "timestamp": 1665402857935,
+      "eventNumber": 8,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Configure with AppID",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "c9f84fb4-a20e-4840-9395-68a17a399240",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "config.appId": "c34e23f06d04/624cff11a0d2/launch-b9458e4018aa",
+          "config.isinternalevent": true
+        },
+        "ACPExtensionEventUniqueIdentifier": "38b50e69-03ba-41ea-a4da-4a5de5e49cd6",
+        "ACPExtensionEventName": "Configure with AppID Internal",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestcontent",
+        "ACPExtensionEventNumber": 6,
+        "ACPExtensionEventType": "com.adobe.eventtype.configuration"
+      },
+      "timestamp": 1665402857934,
+      "eventNumber": 7,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "Configure with AppID Internal",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "1a505307-3732-4900-8ce5-57e42d20ae33",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": { "stateowner": "com.adobe.module.lifecycle" },
+        "ACPExtensionEventUniqueIdentifier": "24e2bcc2-0783-4775-9b82-ca0ec413e206",
+        "metadata": {
+          "state.data": {
+            "maxsessionlength": 604800,
+            "lifecyclecontextdata": {
+              "monthlyenguserevent": "MonthlyEngUserEvent",
+              "runmode": "Application",
+              "installdate": "10/4/2022",
+              "carriername": "AT&T",
+              "locale": "en-US",
+              "resolution": "1080x2183",
+              "appid": "Under Armour 2.22 (200000967)",
+              "installevent": "InstallEvent",
+              "dayofweek": "2",
+              "launchevent": "LaunchEvent",
+              "devicename": "SM-A716U",
+              "hourofday": "7",
+              "osversion": "Android 12",
+              "dailyenguserevent": "DailyEngUserEvent",
+              "launches": "1"
+            },
+            "starttimestampmillis": 0
+          }
+        },
+        "ACPExtensionEventName": "STATE_CHANGE_EVENT",
+        "ACPExtensionEventSource": "com.adobe.eventsource.sharedstate",
+        "ACPExtensionEventNumber": 5,
+        "ACPExtensionEventType": "com.adobe.eventtype.hub"
+      },
+      "timestamp": 1665402857934,
+      "eventNumber": 6,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "STATE_CHANGE_EVENT",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "bfd51153-6e18-4903-b553-e0e70a61446b",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": { "userprofiledata": {} },
+        "ACPExtensionEventUniqueIdentifier": "51b4fbe9-e65a-441c-97a6-7ffd7d0d7a89",
+        "ACPExtensionEventName": "UserProfile Response Event",
+        "ACPExtensionEventSource": "com.adobe.eventsource.responseprofile",
+        "ACPExtensionEventNumber": 4,
+        "ACPExtensionEventType": "com.adobe.eventtype.userprofile"
+      },
+      "timestamp": 1665402857934,
+      "eventNumber": 5,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "UserProfile Response Event",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "9fe8face-a86b-4f62-960b-01e38bd205fe",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {
+          "stateowner": "com.adobe.module.userProfile"
+        },
+        "ACPExtensionEventUniqueIdentifier": "f5a53c0c-ae5e-4d68-b385-2c1c83cdfb59",
+        "metadata": { "state.data": { "userprofiledata": {} } },
+        "ACPExtensionEventName": "STATE_CHANGE_EVENT",
+        "ACPExtensionEventSource": "com.adobe.eventsource.sharedstate",
+        "ACPExtensionEventNumber": 3,
+        "ACPExtensionEventType": "com.adobe.eventtype.hub"
+      },
+      "timestamp": 1665402857933,
+      "eventNumber": 4,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "STATE_CHANGE_EVENT",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "c15ee22c-f2d6-4bf1-8520-4956d3392ad5",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {},
+        "ACPExtensionEventUniqueIdentifier": "2aff8180-c20b-4867-a058-a970336c86e3",
+        "ACPExtensionEventName": "IdentityRequestIdentity",
+        "ACPExtensionEventSource": "com.adobe.eventsource.requestidentity",
+        "ACPExtensionEventNumber": 1,
+        "ACPExtensionEventType": "com.adobe.eventtype.identity"
+      },
+      "timestamp": 1665402857933,
+      "eventNumber": 3,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "IdentityRequestIdentity",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "062063a7-5a94-4573-9672-a2f627fd54b2",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": { "stateowner": "com.adobe.module.eventhub" },
+        "ACPExtensionEventUniqueIdentifier": "d5f9ed59-1e28-473a-9857-535c9d7c38b0",
+        "metadata": {
+          "state.data": {
+            "extensions": {
+              "Target": { "version": "1.1.6" },
+              "Signal": { "version": "1.0.2" },
+              "Configuration": { "version": "1.5.7" },
+              "UserProfile": { "version": "1.1.0" },
+              "Lifecycle": { "version": "1.0.6" },
+              "Identity": { "version": "1.2.2" },
+              "com.adobe.assurance": { "version": "1.0.1" },
+              "Analytics": { "version": "1.2.6" }
+            },
+            "version": "1.5.7"
+          }
+        },
+        "ACPExtensionEventName": "STATE_CHANGE_EVENT",
+        "ACPExtensionEventSource": "com.adobe.eventsource.sharedstate",
+        "ACPExtensionEventNumber": 2,
+        "ACPExtensionEventType": "com.adobe.eventtype.hub"
+      },
+      "timestamp": 1665402857932,
+      "eventNumber": 2,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "STATE_CHANGE_EVENT",
+      "_internal_annotations.visibility.payload.important": ""
+    },
+    {
+      "uuid": "dc9f1ce3-84ad-491c-945b-96394ecc927f",
+      "sessionUuid": "b9927c6f-f820-4f75-8754-770dfd31b4ce",
+      "orgId": "A9733BC75245B1A30A490D4D@AdobeOrg",
+      "vendor": "com.adobe.griffon.mobile",
+      "type": "generic",
+      "payload": {
+        "ACPExtensionEventData": {},
+        "ACPExtensionEventUniqueIdentifier": "8449a52f-7c49-44a1-b28c-b822137ae075",
+        "ACPExtensionEventName": "EventHub",
+        "ACPExtensionEventSource": "com.adobe.eventsource.booted",
+        "ACPExtensionEventNumber": 0,
+        "ACPExtensionEventType": "com.adobe.eventtype.hub"
+      },
+      "timestamp": 1665402857914,
+      "eventNumber": 1,
+      "clientId": "f0650468-3653-42b6-bcbf-a059749733ef",
+      "_internal_adb_props.label": "EventHub",
+      "_internal_annotations.visibility.payload.important": ""
+    }
+  ]
+}
