@@ -10,11 +10,19 @@ from argparse import ArgumentParser
 from pprint import pprint
 
 
+def process_file(infile):
+    raise NotImplementedError("function not yet written")
+
+
+def write_data(uri_data, context_data):
+    raise NotImplementedError("function not yet written")
+
+
 def main():
-    # source data file
+    # source data file (default if no command line input)
     griffon_data = r"c:\Users\micha\Dropbox\src\python\json\data\AssuranceTraining.json"
 
-    # written output file
+    # written output file (default if no command line input)
     url_data = r"c:\Users\micha\Dropbox\src\python\json\data\assurance-urls.txt"
 
     # list to collect matching URIs. It will then be written to file at the end
@@ -49,22 +57,25 @@ def main():
 
     for k in range(length):
         try:
+            # this is what we use for validating correct data
             if 'hitUrl' in json_data['events'][k]['payload']['ACPExtensionEventData']:
                 # remove the URI encoding and add to list for printing
                 item = urllib.parse.unquote(json_data['events'][k]['payload']['ACPExtensionEventData'].get('hitUrl'))
                 print(item)
                 uri_list.append(item)
+            # this is what we use for validating context data variables (for SDR, &c)
             elif 'contextdata' in json_data['events'][k]['payload']['ACPExtensionEventData']:
                 item = json_data['events'][k]['payload']['ACPExtensionEventData'].get('contextdata')
-                print("\n")
+                print()
                 pprint(item)
                 print()
                 context_list.append(item)
+        # 'key' refers to dictionary key, not a keyboard key
         except KeyError:
             print(">>>>>>>>>> <<<<<<<<<<")
             print(">>>>>>>>>> key error, `ACPExtensionEventData` not found <<<<<<<<<<")
             print(">>>>>>>>>> payload is ", json_data['events'][k]['payload'], "<<<<<<<<<<")
-            print(">>>>>>>>>> <<<<<<<<<<")
+            print(">>>>>>>>>> <<<<<<<<<<\n")
     f.close()
 
     # output to file
