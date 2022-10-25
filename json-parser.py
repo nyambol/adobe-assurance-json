@@ -26,9 +26,9 @@ def main():
     inputfile = args.file if args.file is not None else griffon_data
     outputfile = args.output if args.output is not None else url_data
 
-    uri_list, context_list = process_file(griffon_data, arg=args.verbose)
+    uri_list, context_list = process_file(inputfile, arg=args.verbose)
 
-    write_data(url_data, uri_list, context_list)
+    write_data(outputfile, uri_list, context_list)
 
 
 def process_file(infile, arg=None):
