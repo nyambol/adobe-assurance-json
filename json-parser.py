@@ -8,48 +8,17 @@ import json
 import urllib.parse
 from argparse import ArgumentParser
 from pprint import pprint
+from typing import List, Any
 
 
 def process_file(infile):
-    raise NotImplementedError("function not yet written")
-
-
-def write_data(uri_data, context_data):
-    raise NotImplementedError("function not yet written")
-
-
-def main():
-    # source data file (default if no command line input)
-    griffon_data = r"c:\Users\micha\Dropbox\src\python\json\data\AssuranceTraining.json"
-
-    # written output file (default if no command line input)
-    url_data = r"c:\Users\micha\Dropbox\src\python\json\data\assurance-urls.txt"
+    f = open(infile, "r")
 
     # list to collect matching URIs. It will then be written to file at the end
     uri_list = []
+
     # list to collect context data
-    context_list = []
-
-    parser = ArgumentParser()
-    parser.add_argument("-f", "--file", help="file from which to read")
-    parser.add_argument("-o", "--output", help="file to which to write results")
-    args = parser.parse_args()
-
-    if args.file is not None:
-        inputfile = args.file
-    else:
-        inputfile = griffon_data
-
-    if args.output is not None:
-        outputfile = args.output
-    else:
-        outputfile = url_data
-
-    print("\n", inputfile, "\n")
-    print(outputfile)
-
-    f = open(griffon_data, "r")
-    w = open(url_data, 'w')
+    context_list: list[str] = []
 
     json_data = json.load(f)
 
@@ -57,7 +26,7 @@ def main():
 
     for k in range(length):
         try:
-            # this is what we use for validating correct data
+            # this is what we use for validating data is correct
             if 'hitUrl' in json_data['events'][k]['payload']['ACPExtensionEventData']:
                 # remove the URI encoding and add to list for printing
                 item = urllib.parse.unquote(json_data['events'][k]['payload']['ACPExtensionEventData'].get('hitUrl'))
@@ -77,6 +46,41 @@ def main():
             print(">>>>>>>>>> payload is ", json_data['events'][k]['payload'], "<<<<<<<<<<")
             print(">>>>>>>>>> <<<<<<<<<<\n")
     f.close()
+    return uri_list, context_list
+
+
+def write_data(uri_data, context_data):
+    raise NotImplementedError("function not yet written")
+
+
+def main():
+    # source data file (default if no command line input)
+    griffon_data = r"c:\Users\micha\Dropbox\src\python\json\data\AssuranceTraining.json"
+
+    # written output file (default if no command line input)
+    url_data = r"c:\Users\micha\Dropbox\src\python\json\data\assurance-urls.txt"
+
+    parser = ArgumentParser()
+    parser.add_argument("-f", "--file", help="file from which to read")
+    parser.add_argument("-o", "--output", help="file to which to write results")
+    args = parser.parse_args()
+
+    if args.file is not None:
+        inputfile = args.file
+    else:
+        inputfile = griffon_data
+
+    if args.output is not None:
+        outputfile = args.output
+    else:
+        outputfile = url_data
+
+    print("\n", inputfile, "\n")
+    print(outputfile)
+
+    w = open(url_data, 'w')
+
+    uri_list, context_list = process_file(griffon_data)
 
     # output to file
     for i in uri_list:
