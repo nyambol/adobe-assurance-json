@@ -52,7 +52,7 @@ def process_file(infile: str, pfarg: bool = None) -> tuple[list[str], list[str]]
     :param infile: Complete path and filename for the file to be processed
     :type infile: str
     """
-    pfarg: bool = True if pfarg is not None and pfarg is not False else False
+    pfarg = True if pfarg is not None and pfarg is not False else False
 
     f = open(infile, "r")
 
@@ -61,7 +61,7 @@ def process_file(infile: str, pfarg: bool = None) -> tuple[list[str], list[str]]
     # list to collect context data
     context_list: list[str] = []
 
-    json_data: str = json.load(f)
+    json_data: dict = json.load(f)
 
     length: int = len(json_data["events"])
 
